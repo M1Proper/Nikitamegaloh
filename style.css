@@ -1,0 +1,125 @@
+body{
+background-color: darkgrey;
+font-family: 'Montserrat', sans-serif;
+color: white;
+}
+.plita{
+display: flex;
+gap: 10px;
+justify-content: center;
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+
+
+
+.plitki{
+ display: grid;
+ margin-bottom: 118px;
+}
+
+
+.plitka{
+ background-color: rgb(49, 49, 49);
+ border-radius: 10px;
+ text-align: center;
+ width: 120px;
+}
+
+
+
+
+
+.plitka1{
+ width: 20px;
+ height: 20px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ border-radius: 5px;
+ margin-left: 56px;
+}
+
+
+
+.plitka2{
+ width: 100px;
+ height: 116px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ border-radius: 5px;
+ margin: 20px auto;
+}
+
+ 
+
+.plitka3{
+ height: 47px;
+ padding-top: 26px;
+}
+
+ 
+
+.plitka4{
+ height: 291px;
+ width: 136px;
+ display: grid;
+ align-content: space-between;
+ box-sizing: border-box;
+ padding: 15px 0;
+}
+
+ 
+
+.plitka5{
+ height: 90px;
+ width: 479px;
+ display: flex;
+ justify-content: space-between;
+ box-sizing: border-box;
+ padding: 36px 15px 22px 18px;
+ gap: 228px;
+ margin-bottom: 17px;
+}
+
+ 
+
+.text-plitka6{
+ text-transform: none;
+ font-weight: bold;
+}
+
+ 
+
+.text-plitka7{
+ text-transform: uppercase;
+}
+
+ 
+
+.plitka8{
+ background-image: url(icons/eye-open.svg);
+}
+
+ 
+
+.plitka9{
+ background-image: url(icons/locked.svg);
+}
+
+ 
+
+.plitka10{
+ background-image: url(icons/database.svg);
+}
+
+ 
+
+.plityn{
+ display: flex;
+ gap: 10px;
+ border-radius: 7px;
+ padding: 100px 10px 0 10px;
+ margin-top: -105px;
+}
